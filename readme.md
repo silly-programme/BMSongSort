@@ -1,11 +1,8 @@
-# sakura gakuin sort /bmsg/ edition
+# Babymetal sort /bmsg/ edition
 
+Original:
 http://sakurasort.github.io/
 
-add new members in js/fnc_data_v2.js and images in img
+This repository will be deleted once the original owner updates
 
-
-### to do
-
-* add extended universe
-* match new site design http://www.sakuragakuin.jp/ (probably cant be bothered)
+add new song in js/bm/fnc_data_v2.js and images in img
