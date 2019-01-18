@@ -72,6 +72,7 @@ var ary_CharacterData = [
   [1, "The One (English ver.)",     [0,1,0,0], "bmsong/mr01.jpg"],
   [1, "The One (Unfinished ver.)",  [0,1,0,0], "bmsong/mr03.jpg"],
 
+  [1, "Distortion",                 [0,0,1,0], "bmsong/bm_LS.jpg"],
   [1, "The One (Legend S ver.)",    [0,0,1,0], "bmsong/bm_LS.jpg"],
   [1, "Distortion",                 [0,0,1,0], "bmsong/bm_s_d.jpg"],
   [1, "Tattoo",                     [0,0,1,0], "bmsong/bm_s_d.jpg"],
