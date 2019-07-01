@@ -32,8 +32,8 @@ var ary_TitleData = [
  "METAL GALAXIES (2019)",  
  "KAMI BAND",
  "Covers",
- "One-offs versions",
- "Other Studio Versions"
+ "Alternative Studio Song Versions (BABYMETAL, METAL RESISTANCE)",
+ "Alternative Live Performance Version (The Ones + Akatsuki + Headbanger)"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
@@ -70,8 +70,6 @@ var ary_CharacterData = [
   [1, "No Rain, No Rainbow",        [0,1,0,0,0,0,0], "bmsong/mr01.jpg"],
   [1, "Tales of the Destinies",     [0,1,0,0,0,0,0], "bmsong/mr01.jpg"],
   [1, "The One",                    [0,1,0,0,0,0,0], "bmsong/mr02.jpg"],
-  [1, "The One (English ver.)",     [0,1,0,0,0,0,0], "bmsong/mr01.jpg"],
-  [1, "The One (Unfinished ver.)",  [0,1,0,0,0,0,0], "bmsong/mr03.jpg"],
 
   [1, "In The Name Of",             [0,0,1,0,0,0,0], "bmsong/bm_LS.jpg"],
   [1, "Distortion",                 [0,0,1,0,0,0,0], "bmsong/bm_s_d.jpg"],
@@ -92,11 +90,14 @@ var ary_CharacterData = [
   [1, "Tsubasa wo Kudasai",         [0,0,0,0,1,0,0], "bm.png"],
   [1, "Soul's Refrain",             [0,0,0,0,1,0,0], "bm.png"],
   
-  [1, "Akatsuki (Unfinished ver.)", [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],
-  [1, "The One (Legend S ver.)",    [0,0,0,0,0,1,0], "bmsong/bm_LS.jpg"],
   [1, "Ii ne!(Vega mix ver.)",      [0,0,0,0,0,1,0], "bm.png"],
-  
-  [1, "GJ! (Reward edit)",          [0,0,0,0,0,0,1], "bmsong/mr03.jpg"],  
-  [1, "4 no Uta (444 ver.)",        [0,0,0,0,0,0,1], "bmsong/bm02.jpg"]
+  [1, "4 no Uta (444 ver.)",        [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],
+  [1, "GJ! (Reward edit)",          [0,0,0,0,0,1,0], "bmsong/mr03.jpg"],
+ 
+  [1, "Akatsuki (Unfinished ver.)", [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],  
+  [1, "The One (English ver.)",     [0,0,0,0,0,0,1], "bmsong/mr01.jpg"],
+  [1, "The One (Unfinished ver.)",  [0,0,0,0,0,0,1], "bmsong/mr03.jpg"],
+  [1, "The One (Legend S ver.)",    [0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
+  [1, "Headbangeeeeerrrrr!!!!! (☆Night Of 15 Mix★)", [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],
   
 ];
