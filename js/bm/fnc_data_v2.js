@@ -29,7 +29,7 @@ var int_Colspan = 4;
 var ary_TitleData = [
  "BABYMETAL (2014)",
  "METAL RESISTANCE (2016)",
- "METAL GALAXIES (2019)",  
+ "METAL GALAXY (2019)",  
  "KAMI BAND",
  "Covers",
  "Alternative Studio Song Versions",
