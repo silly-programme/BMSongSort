@@ -32,8 +32,8 @@ var ary_TitleData = [
  "METAL GALAXIES (2019)",  
  "KAMI BAND",
  "Covers",
- "Alternative Studio Song Versions (BABYMETAL, METAL RESISTANCE)",
- "Alternative Live Performance Version (The Ones + Akatsuki + Headbanger)"
+ "Alternative Studio Song Versions",
+ "Alternative Live Performance Version"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
@@ -94,10 +94,10 @@ var ary_CharacterData = [
   [1, "4 no Uta (444 ver.)",        [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],
   [1, "GJ! (Reward edit)",          [0,0,0,0,0,1,0], "bmsong/mr03.jpg"],
  
-  [1, "Akatsuki (Unfinished ver.)", [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],  
+  [1, "Akatsuki (Unfinished ver.)", [0,0,0,0,0,0,1], "bmsong/bm02.jpg"],  
   [1, "The One (English ver.)",     [0,0,0,0,0,0,1], "bmsong/mr01.jpg"],
   [1, "The One (Unfinished ver.)",  [0,0,0,0,0,0,1], "bmsong/mr03.jpg"],
   [1, "The One (Legend S ver.)",    [0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
-  [1, "Headbangeeeeerrrrr!!!!! (☆Night Of 15 Mix★)", [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],
+  [1, "Headbanger (☆Night Of 15 Mix★)", [0,0,0,0,0,0,1], "bmsong/bm02.jpg"],
   
 ];
