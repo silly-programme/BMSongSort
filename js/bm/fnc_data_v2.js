@@ -79,6 +79,7 @@ var ary_CharacterData = [
   [1, "PA-PA-YA",                   [0,0,1,0,0,0,0], "bmsong/bm_ppy.jpg"],
   [1, "Shanti",                     [0,0,1,0,0,0,0], "bmsong/bm_mg.jpg"],
   [1, "Arcadia",                    [0,0,1,0,0,0,0], "bmsong/bm_mg.jpg"],
+  [1, "NEW SONG WITH MOA GUITAR"    [0,0,1,0,0,0,0], "bmsong/bm_mg.jpg"],
      
   [1, "Mischiefs of metal gods",    [0,0,0,1,0,0,0], "bm.png"],
   
