@@ -70,11 +70,13 @@ var ary_CharacterData = [
   [1, "No Rain, No Rainbow",        [0,1,0,0,0,0,0], "bmsong/mr01.jpg"],
   [1, "Tales of the Destinies",     [0,1,0,0,0,0,0], "bmsong/mr01.jpg"],
   [1, "The One",                    [0,1,0,0,0,0,0], "bmsong/mr02.jpg"],
+  [1, "The One (English ver.)",     [0,1,0,0,0,0,0], "bmsong/mr01.jpg"],
 
   [1, "In The Name Of",             [0,0,1,0,0,0,0], "bmsong/bm_LS.jpg"],
   [1, "Distortion",                 [0,0,1,0,0,0,0], "bmsong/bm_s_d.jpg"],
   [1, "Kagerou / Tattoo",           [0,0,1,0,0,0,0], "bmsong/bm_mg.jpg"],
   [1, "Elevator Girl",              [0,0,1,0,0,0,0], "bmsong/bm_eg.jpg"],
+  [1, "Elevator Girl (English ver.)",[0,0,1,0,0,0,0], "bmsong/bm_mg.jpg"],
   [1, "Starlight",                  [0,0,1,0,0,0,0], "bmsong/bm_s_s.jpg"],
   [1, "PA-PA-YA",                   [0,0,1,0,0,0,0], "bmsong/bm_ppy.jpg"],
   [1, "Shanti Shanti Shanti",       [0,0,1,0,0,0,0], "bmsong/bm_mg.jpg"],
@@ -98,15 +100,16 @@ var ary_CharacterData = [
   [1, "Over The Future",            [0,0,0,0,1,0,0], "bm.png"],
   [1, "Tsubasa wo Kudasai",         [0,0,0,0,1,0,0], "bm.png"],
   [1, "Soul's Refrain",             [0,0,0,0,1,0,0], "bm.png"],
+  [1, "PainKiller (w/ Rob Halford)",[0,0,0,0,1,0,0], "bmsong/bm_mg.jpg"],
+  [1, "Breaking the Law (w/ Rob Halford)", [0,0,0,0,1,0,0], "bmsong/bm_mg.jpg"],
   
   [1, "Ii ne!(Vega mix ver.)",      [0,0,0,0,0,1,0], "bm.png"],
   [1, "4 no Uta (444 ver.)",        [0,0,0,0,0,1,0], "bmsong/bm02.jpg"],
   [1, "GJ! (Reward edit)",          [0,0,0,0,0,1,0], "bmsong/mr03.jpg"],
  
   [1, "Akatsuki (Unfinished ver.)", [0,0,0,0,0,0,1], "bm.png"],
-  [1, "The One (English ver.)",     [0,0,0,0,0,0,1], "bmsong/mr01.jpg"],
   [1, "The One (Unfinished ver.)",  [0,0,0,0,0,0,1], "bmsong/mr03.jpg"],
   [1, "The One (Legend S ver.)",    [0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
-  [1, "Headbanger (☆Night Of 15 Mix★)", [0,0,0,0,0,0,1], "bmsong/bm02.jpg"],
+  [1, "Headbanger (☆Night Of 15 Mix★)", [0,0,0,0,0,0,1], "bmsong/bm02.jpg"]
   
 ];
