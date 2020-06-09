@@ -110,7 +110,9 @@ var ary_CharacterData = [
   [1, "Akatsuki (Unfinished ver.)", [0,0,0,0,0,0,1], "bm.png"],
   [1, "The One (Unfinished ver.)",  [0,0,0,0,0,0,1], "bmsong/mr03.jpg"],
   [1, "The One (Legend S ver.)",    [0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
-  [1, "MoaBanger (2019)",           [0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
+  [1, "MoaBanger (2019)",           [0,0,0,0,0,0,1], "bmsong/bm_mg.jpg"],
+  [1, "GJ (Moa Solo ver.)",         [0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
+  [1, "4 no Uta (Moa Solo ver.)",        [0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
   [1, "Headbanger (☆Night Of 15 Mix★)", [0,0,0,0,0,0,1], "bmsong/bm02.jpg"]
   
 ];
