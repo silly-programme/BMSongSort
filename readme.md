@@ -8,15 +8,14 @@ This repository will be deleted once the original owner updates
 add new song in js/bm/fnc_data_v2.js and images in img
 
 Changelog (09/06/2020)
-- Added into Covers 
-          - Breaking the law 
-          - PainKiller
-          
-- Added into alternative Live performances
-          - Moa solos 
-             - Moabanger
-             - GJ
-             - 4 no Uta
+          - Added into Covers 
+                    - Breaking the law 
+                    - PainKiller
+          - Added into alternative Live performances
+                    - Moa solos 
+                              - Moabanger
+                              - GJ
+                              - 4 no Uta
 
 Changelog (October 2019)
 - Reclassified the songs from the old fork
