@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Google Drive Video Player for CyTube
+// @name GoogleDrive Video for Synctubes
 // @namespace gdcytube
 // @description Play Google Drive videos on CyTube
 // @include https://cytu.be/r/*
