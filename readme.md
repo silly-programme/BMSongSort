@@ -1,12 +1,20 @@
-# Babymetal sort /bmsg/ edition
+# Babymetal sort 2021 edition
 
 Original:
-http://sakurasort.github.io/
-
-This repository will be deleted once the original owner updates
+https://curiousmidnight.github.io/BMSorter/
+Original original:
+https://sakurasort.github.io/
 
 add new song in js/bm/fnc_data_v2.js and images in img
 
+Changelog (2021-09-13)
+- Added to Alternate Live Performances
+     - BABYMETAL DEATH (Budokan 2021)
+     - GJ! (Budokan 2021)
+     - Onedari Daisakusen (Budokan 2021)
+     - Akatsuki (Budokan 2021)
+
+-- curiousmidnight's notes
 Changelog (09/06/2020)
 - Added into Covers
      - PainKiller
