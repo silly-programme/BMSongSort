@@ -122,6 +122,7 @@ var ary_CharacterData = [
   [1, "Babymetal Death (Budokan 2021)",     [0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
   [1, "Onedari Daisakusen (Budokan 2021)",  [0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
   [1, "GJ! (Budokan 2021)",                 [0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
-  [1, "Akatsuki (Budokan 2021)",            [0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"]
+  [1, "Akatsuki (Budokan 2021)",            [0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
+  [1, "The One (Living Legend ver.)",       [0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"]
   
 ];
