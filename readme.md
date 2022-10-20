@@ -1,4 +1,4 @@
-# Babymetal sort 2021 edition
+# Babymetal sort 2022 edition
 
 Original:
 https://curiousmidnight.github.io/BMSorter/
@@ -6,6 +6,10 @@ Original original:
 https://sakurasort.github.io/
 
 add new song in js/bm/fnc_data_v2.js and images in img
+
+Changelog (2022-10-20)
+- Added The Other One (new album 2023)
+     - Divine Attack -Shingeki-
 
 Changelog (2021-09-13)
 - Added to Alternate Live Performances
