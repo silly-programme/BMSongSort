@@ -92,7 +92,8 @@ var ary_CharacterData = [
   
   
      
-  [1, "Mischiefs of metal gods",    [0,0,0,0,1,0,0,0], "bm.png"],
+  [1, "Mischiefs of the Metal Gods",                           [0,0,0,0,1,0,0,0], "bm.png"],
+  [1, "Gathering of the Metal Warriors (Hill of Wisteria)",    [0,0,0,0,1,0,0,0], "bm.png"],
   
   [1, "Kimi to Anime ga Mitai",     [0,0,0,0,0,1,0,0], "bm.png"],
   [1, "Love machine",               [0,0,0,0,0,1,0,0], "bm.png"],
