@@ -123,7 +123,7 @@ var ary_CharacterData = [
   [1, "GJ (Moa Solo ver.)",                 [0,0,0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
   [1, "4 no Uta (Moa Solo ver.)",           [0,0,0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
   [1, "Headbanger (☆Night Of 15 Mix★)",    [0,0,0,0,0,0,0,0,1], "bmsong/bm02.jpg"],
-  [1, "Babymetal Death (Budokan 2021)",     [0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
+  [1, "Babymetal Death (Shin ver.)",        [0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
   [1, "Onedari Daisakusen (Budokan 2021)",  [0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
   [1, "GJ! (Budokan 2021)",                 [0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
   [1, "Akatsuki (Budokan 2021)",            [0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
