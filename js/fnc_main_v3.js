@@ -73,9 +73,12 @@ function startup() {
       var new_cell = new_row.insertCell(new_row.childNodes.length);
       var new_CheckBox = cE('input');
       new_CheckBox.setAttribute('type', 'checkbox', 0);
-      new_CheckBox.setAttribute('checked', 'true', 0);
       new_CheckBox.value = ary_TitleData[i];
       new_CheckBox.title = ary_TitleData[i];
+      if (new_CheckBox.value == 'BABYMETAL (2014)' || new_CheckBox.value == 'METAL RESISTANCE (2016)'
+	  || new_CheckBox.value == 'METAL GALAXY (2019)' || new_CheckBox.value == 'THE OTHER ONE (2023)') {
+	      new_CheckBox.setAttribute('checked', 'true', 0);
+      }
       new_CheckBox.id = 'optSelect' + i;
       new_cell.appendChild(new_CheckBox);
 
@@ -103,7 +106,7 @@ function startup() {
    new_CheckBox.setAttribute('type', 'checkbox', 0);
    new_CheckBox.setAttribute('checked', 'true', 0);
    new_CheckBox.value = "All";
-   new_CheckBox.title = "All boxes are checked/unchecked at the same time.";
+   new_CheckBox.title = "Check/uncheck all boxes";
    new_CheckBox.id = 'optSelect_all';
    new_CheckBox.onclick = function() {chgAll();}
    new_cell.appendChild(new_CheckBox);
