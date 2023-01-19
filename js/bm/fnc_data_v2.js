@@ -94,6 +94,7 @@ var ary_CharacterData = [
   
   [1, "Divine Attack -Shingeki-",                             [0,0,0,1,0,0,0,0,0], "bmsong/bm_da.jpg"],
   [1, "Monochrome",                                           [0,0,0,1,0,0,0,0,0], "bmsong/bm_mc.jpg"],
+  [1, "Metal Kingdom",                                        [0,0,0,1,0,0,0,0,0], "bmsong/MK.jpg"],
      
   [1, "Mischiefs of metal gods",          [0,0,0,0,1,0,0,0,0], "bm.png"],
   [1, "Gathering of the Metal Warriors",  [0,0,0,0,1,0,0,0,0], "bm.png"],
