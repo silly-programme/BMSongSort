@@ -92,10 +92,16 @@ var ary_CharacterData = [
   [1, "↑↓←→BBAB",                                             [0,0,1,0,0,0,0,0,0], "bmsong/bm_mg.jpg"],
   [1, "BxMxC",                                                [0,0,1,0,0,0,0,0,0], "bmsong/bm_mg.jpg"],
   
+  [1, "Metal Kingdom",                                        [0,0,0,1,0,0,0,0,0], "bmsong/Metal_Kingdom.jpg"],
   [1, "Divine Attack -Shingeki-",                             [0,0,0,1,0,0,0,0,0], "bmsong/bm_da.jpg"],
+  //[1, "Mirror Mirror",                                        [0,0,0,1,0,0,0,0,0], "bmsong/Mirror_Mirror.jpg"],
+  //[1, "Maya",                                                 [0,0,0,1,0,0,0,0,0], "bmsong/Maya.jpg"],
+  //[1, "Time Wave",                                            [0,0,0,1,0,0,0,0,0], "bmsong/Time_Wave.jpg"],
+  //[1, "Believing",                                            [0,0,0,1,0,0,0,0,0], "bmsong/Believing.jpg"],
+  //[1, "Metalizm",                                             [0,0,0,1,0,0,0,0,0], "bmsong/Metalizm.jpg"],
   [1, "Monochrome",                                           [0,0,0,1,0,0,0,0,0], "bmsong/bm_mc.jpg"],
-  [1, "Metal Kingdom",                                        [0,0,0,1,0,0,0,0,0], "bmsong/MK.jpg"],
-  [1, "Light and Darkness",                                   [0,0,0,1,0,0,0,0,0], "bmsong/TOO.jpg"],
+  [1, "Light and Darkness",                                   [0,0,0,1,0,0,0,0,0], "bmsong/Light_and_Darkness.jpg"],
+  //[1, "The Legend",                                           [0,0,0,1,0,0,0,0,0], "bmsong/The_Legend.jpg"],
      
   [1, "Mischiefs of metal gods",          [0,0,0,0,1,0,0,0,0], "bm.png"],
   [1, "Gathering of the Metal Warriors",  [0,0,0,0,1,0,0,0,0], "bm.png"],
