@@ -2,7 +2,7 @@
 // 2009/1/27 Modified by K-Factory@migiwa
 
 // *****************************************************************************
-str_CenterT = 'Tie!';
+str_CenterT = 'lols';
 str_CenterB = 'Undo last choice';
 
 str_ImgPath = 'img/';
