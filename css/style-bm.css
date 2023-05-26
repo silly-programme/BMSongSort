@@ -6,7 +6,7 @@ body {
   background-image: url("../img/rightMoa.png"), url("../img/leftSu.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 100% -15%, 0% -15%;
+  background-position: right top, left top;
 }
 
 .resTable {
