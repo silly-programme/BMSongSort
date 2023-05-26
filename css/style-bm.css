@@ -23,23 +23,23 @@ a, a:hover {
 }
 
 #fldRight, #fldLeft {
-  width: 200px;
-  height: 200px;
+  width: 210px;
+  height: 210px;
   border: 1px solid #5F151B;
   font-size: 16px;
 }
 
-#fldMiddleT, #fldMiddleB {
+#fldMiddleT, #fldMiddleB, #fldMiddleB2 {
   border: 1px solid #5F151B;
 }
 
-#fldMiddleT {
+#fldMiddleT, #fldMiddleB2 {
   visibility:hidden;
 }
 
 img {
-  height: 200px;
-  width: 200px;
+  height: 210px;
+  width: 210px;
 }
 
 #btn-rawtext {
