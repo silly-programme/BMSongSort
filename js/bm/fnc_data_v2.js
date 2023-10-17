@@ -31,7 +31,7 @@ var ary_TitleData = [
  "METAL RESISTANCE (2016)",
  "METAL GALAXY (2019)",
  "THE OTHER ONE (2023)",
- "?????????! (????)",
+ "Fourth album!? (????)",
  "KAMI BAND",
  "Covers",
  "Collaboration",
