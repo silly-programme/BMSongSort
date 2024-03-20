@@ -31,7 +31,7 @@ var ary_TitleData = [
  "METAL RESISTANCE (2016)",
  "METAL GALAXY (2019)",
  "THE OTHER ONE (2023)",
- "Fourth album!? (????)",
+ "Fourth album!? (20XX)",
  "KAMI BAND",
  "Covers",
  "Collaboration",
@@ -123,6 +123,7 @@ var ary_CharacterData = [
   [1, "Breaking the Law (w/ Rob Halford)",                    [0,0,0,0,0,0,0,1,0,0], "bm.png"],
   [1, "Kingslayer (w/ BMTH)",                                 [0,0,0,0,0,0,0,1,0,0], "bmsong/BMTHcover.jpg"],
   [1, "The End (w/ Lil Uzi Vert)",                            [0,0,0,0,0,0,0,1,0,0], "bmsong/PinkTape.jpg"],
+  [1, "Leave It All Behind (w/ F. Hero & Bodyslam)",          [0,0,0,0,0,0,0,1,0,0], "bmsong/LIAB.jpg"],
   
   [1, "line! (Vega mix ver.)",                                [0,0,0,0,0,0,0,0,1,0], "bm.png"],
   [1, "Megitsune (Tekina remix)",                             [0,0,0,0,0,0,0,0,1,0], "bm.png"],
