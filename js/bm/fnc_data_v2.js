@@ -34,7 +34,7 @@ var ary_TitleData = [
  "Fourth album!? (20XX)",
  "KAMI BAND",
  "Covers",
- "Collaboration",
+ "Collaborations",
  "Alternative Studio Song Versions",
  "Alternative Live Performance Version"
 ];
@@ -124,6 +124,7 @@ var ary_CharacterData = [
   [1, "Kingslayer (w/ BMTH)",                                 [0,0,0,0,0,0,0,1,0,0], "bmsong/BMTHcover.jpg"],
   [1, "The End (w/ Lil Uzi Vert)",                            [0,0,0,0,0,0,0,1,0,0], "bmsong/PinkTape.jpg"],
   [1, "Leave It All Behind (w/ F. Hero & Bodyslam)",          [0,0,0,0,0,0,0,1,0,0], "bmsong/LIAB.jpg"],
+  [1, "RATATATA (w/ Electric Callboy)",                       [0,0,0,0,0,0,0,1,0,0], "bmsong/RATATATA.jpg"],
   
   [1, "line! (Vega mix ver.)",                                [0,0,0,0,0,0,0,0,1,0], "bm.png"],
   [1, "Megitsune (Tekina remix)",                             [0,0,0,0,0,0,0,0,1,0], "bm.png"],
