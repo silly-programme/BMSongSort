@@ -31,7 +31,7 @@ var ary_TitleData = [
  "METAL RESISTANCE (2016)",
  "METAL GALAXY (2019)",
  "THE OTHER ONE (2023)",
- "Fourth album!? (20XX)",
+ "METAL FORTH (2025)",
  "KAMI BAND",
  "Covers",
  "Collaborations",
@@ -104,9 +104,18 @@ var ary_CharacterData = [
   [1, "Light and Darkness",                                   [0,0,0,1,0,0,0,0,0,0], "bmsong/Light_and_Darkness.jpg"],
   [1, "The Legend",                                           [0,0,0,1,0,0,0,0,0,0], "bmsong/The_Legend.jpg"],
  
-  [1, "METALI!!",                                             [0,0,0,0,1,0,0,0,0,0], "bmsong/METALI.jpg"],
+  [1, "from me to u (feat. Poppy)",                           [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "RATATATA (x Electric Callboy)",                        [0,0,0,0,1,0,0,0,0,0], "bmsong/RATATATA.jpg"],
+  [1, "3 no Uta (x Slaughter to Prevail)",                    [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "Kon! Kon! (feat. Bloodywood)",                         [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "KxAxWxAxIxI",                                          [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "Sunset Kiss (feat. Polyphia)",                         [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "My Queen (feat. Spiritbox)",                           [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "Algorism",                                             [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "METALI!! (feat. Tom Morello)",                         [0,0,0,0,1,0,0,0,0,0], "bmsong/METALI.jpg"],
+  [1, "White Flame ー白炎ー",                                  [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
      
-  [1, "Mischiefs of metal gods",                              [0,0,0,0,0,1,0,0,0,0], "bm.png"],
+  [1, "Mischiefs of Metal Gods",                              [0,0,0,0,0,1,0,0,0,0], "bm.png"],
   [1, "Gathering of the Metal Warriors",                      [0,0,0,0,0,1,0,0,0,0], "bm.png"],
   
   [1, "Kimi to Anime ga Mitai",                               [0,0,0,0,0,0,1,0,0,0], "bm.png"],
@@ -121,16 +130,17 @@ var ary_CharacterData = [
   
   [1, "PainKiller (w/ Rob Halford)",                          [0,0,0,0,0,0,0,1,0,0], "bm.png"],
   [1, "Breaking the Law (w/ Rob Halford)",                    [0,0,0,0,0,0,0,1,0,0], "bm.png"],
+  [1, "Itch For the Cure (w/ BMTH)",                          [0,0,0,0,0,0,0,1,0,0], "bmsong/BMTHcover.jpg"],
   [1, "Kingslayer (w/ BMTH)",                                 [0,0,0,0,0,0,0,1,0,0], "bmsong/BMTHcover.jpg"],
   [1, "The End (w/ Lil Uzi Vert)",                            [0,0,0,0,0,0,0,1,0,0], "bmsong/PinkTape.jpg"],
   [1, "Leave It All Behind (w/ F. Hero & Bodyslam)",          [0,0,0,0,0,0,0,1,0,0], "bmsong/LIAB.jpg"],
-  [1, "RATATATA (w/ Electric Callboy)",                       [0,0,0,0,0,0,0,1,0,0], "bmsong/RATATATA.jpg"],
   [1, "Eternal Flames (w/ TMG)",                              [0,0,0,0,0,0,0,1,0,0], "bmsong/TMGII.jpg"],
   [1, "Bekhauf (w/ Bloodywood)",                              [0,0,0,0,0,0,0,1,0,0], "bmsong/Bekhauf.jpg"],
   
   [1, "line! (Vega mix ver.)",                                [0,0,0,0,0,0,0,0,1,0], "bm.png"],
   [1, "Megitsune (Tekina remix)",                             [0,0,0,0,0,0,0,0,1,0], "bm.png"],
   [1, "4 no Uta (444 ver.)",                                  [0,0,0,0,0,0,0,0,1,0], "bmsong/bm02.jpg"],
+  [1, "Ijime, Dame, Zettai (Nemesis ver.)",                   [0,0,0,0,0,0,0,0,1,0], "bmsong/IDZltd.jpg"],
   [1, "GJ! (Reward edit)",                                    [0,0,0,0,0,0,0,0,1,0], "bmsong/mr03.jpg"],
   [1, "Starlight (single)",                                   [0,0,0,0,0,0,0,0,1,0], "bmsong/Starlight.jpg"],
   [1, "Distortion (single)",                                  [0,0,0,0,0,0,0,0,1,0], "bmsong/Distortion.jpg"],
@@ -138,9 +148,12 @@ var ary_CharacterData = [
   [1, "The One (The First Take)",                             [0,0,0,0,0,0,0,0,1,0], "bmsong/TOTFT.jpg"],
  
   [1, "Akatsuki (Unfinished ver.)",                           [0,0,0,0,0,0,0,0,0,1], "bm.png"],
+  [1, "Gimme Chocolate!! (Skrillex ver.)",                    [0,0,0,0,0,0,0,0,0,1], "bmsong/bm.jpg"],
   [1, "The One (Unfinished ver.)",                            [0,0,0,0,0,0,0,0,0,1], "bmsong/mr03.jpg"],
   [1, "The One (Legend S ver.)",                              [0,0,0,0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
-  [1, "MoaBanger (2019)",                                     [0,0,0,0,0,0,0,0,0,1], "bmsong/bm_mg.jpg"],
+  [1, "Headbangeeeeerrrrr!!!!! (Yui ver.)",                   [0,0,0,0,0,0,0,0,0,1], "bmsong/bm.jpg"],
+  [1, "Headbangeeeeerrrrr!!!!! (Moa ver.)",                   [0,0,0,0,0,0,0,0,0,1], "bmsong/bm_mg.jpg"],
+  [1, "Headbangeeeeerrrrr!!!!! (Momo ver.)",                  [0,0,0,0,0,0,0,0,0,1], "bmsong/LegendMM.jpg"],
   [1, "GJ! (Moa Solo ver.)",                                  [0,0,0,0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
   [1, "4 no Uta (Moa Solo ver.)",                             [0,0,0,0,0,0,0,0,0,1], "bmsong/bm_LS.jpg"],
   [1, "Headbanger (☆Night Of 15 Mix★)",                      [0,0,0,0,0,0,0,0,0,1], "bmsong/bm02.jpg"],
@@ -149,6 +162,7 @@ var ary_CharacterData = [
   [1, "Onedari Daisakusen (Su-metal Anger ver.)",             [0,0,0,0,0,0,0,0,0,1], "bm.png"],
   [1, "GJ! (Budokan 2021)",                                   [0,0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
   [1, "Akatsuki (Budokan 2021)",                              [0,0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
-  [1, "The One (Living Legend ver.)",                         [0,0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"]
+  [1, "The One (Living Legend ver.)",                         [0,0,0,0,0,0,0,0,0,1], "bmsong/10BMY.jpg"],
+  [1, "Megitsune (赤子金属 ver.)",                             [0,0,0,0,0,0,0,0,0,1], "bmsong/FoxFest.jpg"]
   
 ];
