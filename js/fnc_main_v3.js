@@ -77,7 +77,7 @@ function startup() {
       new_CheckBox.title = ary_TitleData[i];
       if (new_CheckBox.value == 'BABYMETAL (2014)' || new_CheckBox.value == 'METAL RESISTANCE (2016)'
 	 || new_CheckBox.value == 'METAL GALAXY (2019)' || new_CheckBox.value == 'THE OTHER ONE (2023)'
-	 || new_CheckBox.value == 'METAL FORTH (2025) - released') {
+	 || new_CheckBox.value == 'METAL FORTH (2025)') {
 	      new_CheckBox.setAttribute('checked', 'true', 0);
       }
       new_CheckBox.id = 'optSelect' + i;
