@@ -106,8 +106,8 @@ var ary_CharacterData = [
  
   [1, "from me to u (feat. Poppy)",                           [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
   [1, "RATATATA (x Electric Callboy)",                        [0,0,0,0,1,0,0,0,0,0], "bmsong/RATATATA.jpg"],
-  //[1, "3 no Uta (x Slaughter to Prevail)",                    [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
-  //[1, "Kon! Kon! (feat. Bloodywood)",                         [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
+  [1, "3 no Uta (x Slaughter to Prevail)",                    [0,0,0,0,1,0,0,0,0,0], "bmsong/S3.jpg"],
+  [1, "Kon! Kon! (feat. Bloodywood)",                         [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
   //[1, "KxAxWxAxIxI",                                          [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
   //[1, "Sunset Kiss (feat. Polyphia)",                         [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
   //[1, "My Queen (feat. Spiritbox)",                           [0,0,0,0,1,0,0,0,0,0], "bmsong/MetalForth.jpg"],
