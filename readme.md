@@ -1,4 +1,4 @@
-# Babymetal sort 2022 edition
+# Babymetal sort 2025 edition
 
 Original:
 https://curiousmidnight.github.io/BMSorter/
@@ -6,6 +6,8 @@ Original original:
 https://sakurasort.github.io/
 
 add new song in js/bm/fnc_data_v2.js and images in img
+
+Haha why did I think that I would keep up with a fucking changelog 😂💀
 
 Changelog (2022-10-20)
 - Added The Other One (new album 2023)
